@@ -1,0 +1,26 @@
+/*....Diseño....*/
+
+/*___Navegador.css___*/
+.nav-link-custom {
+    color: white !important;
+    text-decoration: none;
+}
+
+/*___Estilo para el enlace activo____*/
+.nav-link.active {
+    background-color: rgb(239, 80, 80);
+}
+
+/*____NotFound____*/
+.mensaje {
+    text-align: center;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+.mensaje h6 {
+    font-size: 17px;
+    color: #333;
+}
+
+
+
